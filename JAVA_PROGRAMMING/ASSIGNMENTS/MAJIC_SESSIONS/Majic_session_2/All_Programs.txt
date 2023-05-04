@@ -1,0 +1,50 @@
+
+ NESTED for 6
+
+ program 1  :
+        WAP to print the numbers divisible by 5 from 1 to 50 and
+        the number is even also print the count of even numbers
+
+        i/p : enter lower limit  :  1
+               enter higher limit  : 50
+
+        o/p :  10,20,30,40,50
+        count  = 5
+
+program 2 :
+        WAP to take range from user and find composite number between in that range
+
+        i/p :  1
+               20
+        o/p :
+                4,6,8,9,10,12,14,15,16,18,20
+
+program 3:
+         WAP to take range from user and print the perfect square between them
+
+program 4 :
+            WAP to take range from user and print the perfect cube between them
+
+program 5:
+         WAP to take range from user and print the perfect square between them
+         (Note :  A perfect number is ne whose perfect divisors addition is equal to that number)
+
+program 6 :
+         WAP to take 5 numbers from user and count their digits
+
+         1 :  45
+            count  = 2
+         2 :  3456
+             count = 4
+
+program 7 :
+         WAP to print all reverse number in a range
+
+program 8 :
+        WAP to print all palindrome between the given range by user..
+
+program 9 :
+        WAP to print all strong number in given range by the user
+
+program 10 :
+        WAP to print all Armstrong number in given range by the user
