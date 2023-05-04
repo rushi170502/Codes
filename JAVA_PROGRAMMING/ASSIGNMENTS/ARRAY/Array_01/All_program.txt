@@ -1,0 +1,41 @@
+
+// Array 01 assignment
+
+program1 :
+        WAP to take size of array from user and also take integer elements from user print sum of odd elements only
+        i/p :
+            enter size = 5
+            elements = 1 2 3 4 5
+        o/p :
+            = 9
+            (1+3+5)
+
+program2 :
+         WAP to take size of array from user and also take integer elements from user print product of even elements only
+                i/p :
+                    enter size = 5
+                    elements = 1 2 3 4 5
+                o/p :
+                      2 * 4 = 8
+
+
+program3 :
+         WAP to take size of array from user and also take integer elements from user print product of odd index elements only
+                i/p :
+                    enter size = 5
+                    elements = 1 2 3 4 5
+                o/p :
+                      2 * 4 = 8
+
+program4 :
+          WAP to take character array from user and find vowels from the character array
+          i/p :  a b c e g h i
+          o/p :  a  e  i
+
+program5 :
+         WAP to take size of array from user and also take integer elements from user & print the numbers divided by only 5
+                i/p :
+                    enter size = 5
+                    elements = 10  23 40 54 55
+                o/p :
+                      10  40  55
