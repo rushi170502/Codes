@@ -1,0 +1,32 @@
+
+// Array 02
+
+program1 :
+            WAP to take array elements from user and find their sum and print sum
+
+program2 :
+             WAP to take array elements from user and find the count of even numbers and odd number from given array
+
+program3 :
+             WAP to take array elements from user and find the sum of even numbers and odd number from given array
+
+program4 :
+            WAP to search a specific element from array and return its index
+
+program5 :
+            WAP to find the minimum element from the given array
+
+program6 :
+            WAP to find the maximum element from the given array
+
+program7 :
+            WAP to find the common elements from two arrays
+
+program8 :
+            WAP to find the uncommon elements from two arrays
+
+program9 :
+            WAP to merge two arrays
+
+program10 :
+            WAP to print the elements whose addition of digits is even
