@@ -1,0 +1,86 @@
+
+//Majic session 14 April
+
+program1 :
+        WAP to print following pattern
+
+        D4  C3  B2  A1
+        A1  B2  C3  D4
+        D4  C3  B2  A1
+        A1  B2  C3  D4
+
+program 2 :
+         WAP to print following pattern
+
+         #  =   =   =   =
+         =  #   =   =   =
+         =  =   #   =   =
+         =  =   =   #   =
+         =  =   =   =   #
+
+program3 :
+
+        WAP to print following pattern
+
+        5   4   3   2   1
+        8   6   4   2
+        9   6   3
+        8   4
+        5
+
+program4 :
+
+        WAP to print following even number in reverse order and odd in sequence
+        i/p : start = 2
+               end = 9
+
+        o/p :    8 6 4 2
+                 3 5 7 9
+
+program 5:
+        WAP to print following pattern
+
+        0
+        1   1
+        2   3   5
+        8   13  21  34
+
+        fibonacci series
+
+program 6:
+
+        WAP to take two characters from user and find their difference
+        i/p :  ch1 = a;
+                ch2 = p;
+        o/p:  diff = 15
+
+program 7 :
+        WAP to print following pattern
+        O
+        14  13
+        L  K  J
+        9  8  7  6
+        E  D  C  B  A
+
+program 8 :
+        WAP to print following pattern
+        $
+        @   @
+        &   &   &
+        #   #   #   #
+        $   $   $   $   $
+        @   @   @   @   @   @
+        $   $   $   $   $   $   $
+
+program 9:
+
+          WAP to print the addition of factorial of given number
+          i/p: 1234
+          o/p : 33
+
+program 10 :
+           WAP to find the prime numbers in a given range
+
+
+
+
