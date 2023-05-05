@@ -1,0 +1,22 @@
+// float values array
+import java.io.*;
+class arrayDemo{
+    public static void main(String[] args) throws IOException{
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+
+        System.out.println("Enter the size of array  : ");
+        int size = Integer.parseInt(br.readLine());
+
+        float arr[] = new float[size];
+        System.out.println("Enter the elements of array  : ");
+        for(int i = 0 ; i < size; i++){
+            arr[i] = Float.parseFloat(br.readLine());
+        }
+
+        System.out.println("Elements of array  : ");
+        for(int i = 0 ; i < size; i++){
+            System.out.println(" "+arr[i]);
+        }
+    }
+}
