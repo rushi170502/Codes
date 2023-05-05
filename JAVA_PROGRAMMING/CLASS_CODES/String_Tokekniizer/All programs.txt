@@ -1,0 +1,37 @@
+
+// USE OF StringTokenizer class for divide the string into tokens which can be
+// separated by delimiter
+
+program 1 :
+
+        WAP take information of player his name , grade, runs , and strike rate in single input
+        and use StringTokenizer
+
+        here we use delimiter  as space (" ");
+        it means string is tokenize by space
+
+program 2 :
+
+        WAP take information of society name , wing and flat no in single input
+        and use StringTokenizer
+
+        here we use delimiter  as comma (" , ");
+        it means string is tokenize by comma
+
+program 3:
+
+        WAP take information of player his name , grade, runs , and strike rate in single input
+                and use StringTokenizer
+
+                here we use delimiter  as comma (".");
+                it means string is tokenize by dot
+
+program 4:
+
+           WAP take information of player his name , grade, runs , and strike rate in single input
+                   and use StringTokenizer
+            use hasMoreTokens() & nextToken() methods
+
+
+
+
