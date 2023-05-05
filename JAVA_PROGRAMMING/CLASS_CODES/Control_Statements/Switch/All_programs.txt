@@ -1,0 +1,39 @@
+
+// All programs of switch
+
+program1  :
+        WAP to use of switch statement for the given input.
+
+program2  :
+        WAP to check output at the time of duplicate cases
+        check errors;
+
+ program3  :
+         WAP to check output at the time of duplicate cases at the constant value
+         case 1+1 = 2
+         case 2 both are same
+         check errors;
+
+ program4  :
+         WAP to check output at the time of duplicate cases
+         check errors;
+         case A:
+         case 65: both are same so it gives duplicate case error
+
+ program5 :
+        WAP to check output at the time of duplicate cases
+        check errors;
+        for the variable expression so it gives expression error
+        case a:
+        case a+a: both are same so it gives duplicate case error
+
+ program6 :
+        WAP to print the weekday given by user at if case is matched then
+        return that particular day
+
+ program7 :
+         WAP to used the nested switch to the code in which hotel menu is presented
+         veg or non-veg after that it gives other options.
+
+
+
