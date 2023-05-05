@@ -1,0 +1,42 @@
+
+// Methods in JAVA
+
+ types :   1. static methods & static variables
+            2. Non-static methods & non-static variables
+
+ program1 :
+        WAP to check whether non-static method can access by static method
+
+ program2 :
+        WAP to check whether the non-static variable can access from static method or not
+        we check non-static method can access from static context or not
+
+ program3 :
+         WAP to check whether the non-static variable can access from static method or not
+                we check non-static variable can access from static context or not
+
+ // Passing arguments to the function or methods
+
+ program4 :
+        WAP to print addition of two numbers in a function using passing arguments
+        add(a,b);
+
+
+// passing arguments to functions
+
+ program5 :
+            WAP to pass arguments to functions...
+           function 1 : passing int values to function
+           function 2 : passing float values to function
+           function 3 : passing char values to function
+           function 4 : passing double values to function
+
+// Return values to function
+
+ program6:
+        WAP to use any function and return value from function
+        void
+        int
+        float
+
+
