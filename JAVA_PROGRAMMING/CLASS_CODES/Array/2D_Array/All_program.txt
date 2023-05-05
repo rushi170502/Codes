@@ -1,0 +1,23 @@
+
+// 2D array programs
+
+program1 :
+        WAP to initialised Intger array and check the default values
+    
+program2 :
+        WAP to initialised Intger array and give the values to array
+
+program3 :
+        WAP to check the trail and errors on array declation and check addresses
+
+program4 :
+        WAP to take integer elements of array from user and print them by using for loop
+
+program5 :
+         WAP to take float elements of array from user and print them by using for loop
+
+program6 :
+         WAP to take double elements of array from user and print them by using for loop
+
+program7 :
+         WAP to take char elements of array from user and print them by using for loop
