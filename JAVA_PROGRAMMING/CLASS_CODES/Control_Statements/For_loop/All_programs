@@ -1,0 +1,25 @@
+// ALL programs of for loop
+
+program1 :
+            WAP to print the 1 to N using for loop
+
+program2 :
+            WAP to print all even numbers to N number using for loop
+
+program3 :
+            WAP to find the factorial of a given number.. using for loop
+
+ program4 :
+             WAP to print factors of a given number using for loop
+
+ program5 :
+             WAP to  print factors of a given number and count using for loop
+
+ program6 :
+              WAP to  check whether the given number is prime or not.. using for loop
+
+ program7 :
+              WAP to  print the given number is perfect or not perfect number using for loop
+
+ program8 :
+              WAP to  print the given number is Armstrong or not using for loop
