@@ -1,0 +1,46 @@
+
+// Array in java
+
+program 1 :
+        WAP to Initialize array , declaration of array
+        different ways
+
+program 2 :
+        WAP to create different types of array
+        1. integer data
+        2. float data
+        3. char data
+        4. boolean data
+        print array elements without loop
+
+  program 3:
+          WAP to create different types of array
+          1. integer data
+          2. float data
+          3. char data
+          4. boolean data
+          print array elements with for loop
+
+  // Get array elements from user
+
+ program 4 :
+            WAP to take array elements from user
+            as integer values perform all testcases
+
+            by use of BufferedReader & InputStreamReader class
+            and print data
+
+program 5 :
+            WAP to take array elements from user
+            as float values and perform all testcases
+
+            by use of BufferedReader & InputStreamReader class
+            and print data
+
+program 6 :
+            WAP to take array elements from user
+            as character values and perform all testcases
+
+            by use of BufferedReader & InputStreamReader class
+            and print data
+
