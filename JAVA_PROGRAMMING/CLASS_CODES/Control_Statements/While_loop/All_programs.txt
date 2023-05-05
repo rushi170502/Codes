@@ -1,0 +1,27 @@
+
+// All programs of while loop
+
+ Program1 :
+        WAP to print the 1 to 10 by using while loop
+
+ Program2 :
+         WAP to print given string for number of times by using while loop
+
+ Program3 :
+         WAP to print odd numbers from 1 to 20 by using while loop
+
+ Program4 :
+         WAP to print all even numbers from n number. by using while loop
+
+ Program5 :
+         WAP to print reverse number of given number by using while loop
+
+ Program6 :
+         WAP to print the single digits of given number by using while loop
+
+ Program7 :
+         WAP to print the sum of digits  and multiplication of given number by using while loop
+
+ program8 :
+        WAP to print the square of number in given range
+
