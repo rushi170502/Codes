@@ -1,0 +1,96 @@
+
+// String methods
+
+1. concat():
+        method 1: 
+            concat();
+                -  It is use to concatenated two string 
+                parameter :  String
+                return type : String
+
+2. length() :
+        method 2 :
+            length();
+                - It is used to find the length of the string(no.of characters in string)
+                parameter : String
+                return type : int
+
+3. charAt() :
+        method 3 :
+            charAt(index);
+                - It returns the character at a specific index in the string hardcoded
+                parameter : integer
+                return type : character
+
+
+  charAt()_1.java :
+        method 3 :
+            charAt(index);
+                - It returns the character at a specific index in the string by user
+                parameter : integer
+                return type : character
+
+4. compareTo() : 
+        method 4 :
+            compareTo(str);
+                - It compares both strings with each other(case sensitive). 
+                if both strings are equal then return 0 
+                otherwise return the difference between two character
+                parameter : String
+                return Type : Int
+
+5. compareToIgnoreCase() :
+        method 5 :
+            compareToIgnoreCase(str);
+                - It compares both strings with each other by size and character
+                if both strings are equal then return 0 
+                otherwise return the difference between two character
+                parameter : String
+                return Type : Int
+
+6. equals() :  
+        method 6 :
+                equals(str);
+                - It compares both strings with each other with the content 
+                - if they are equal then return true and if not equal return false
+                  string are compare with character sequence
+                parameter : String object
+                return type :boolean
+
+7. equalsIgnoreCase() : 
+        method 7 :
+                equalsIgnoreCase(str);
+                -compares the content of the string bu ignoring all case characters
+                parameter : String(str)
+                return type :boolean
+
+8. indexOf() : 
+        method  8 :
+                indexOf();
+                - find the first instance of the given character in the string 
+                parameter : character(which char want to find ), integer value (index to start the search)
+                return : integer
+
+9. lastIndexOf() : 
+        method 9 :
+                - find the last instance of the given character in the string
+                parameter : character(which char want to find), integer value ( upto index )
+                return   : integer
+
+10. replace() : 
+        method 10 : 
+                - replaces the every instance of the character in the string with a new character
+                parameter : (old character , new character)
+                return : character
+
+11.  substring() :
+        method 11 : 
+                -creates a substring of the given string starting at specified index and ending at the given string
+                parameter : (index)
+                return type : string
+
+12.  substring() :
+        method 12 : 
+                -creates a substring of the given string starting at specified index and ending at the given specific index
+                parameter : (starting index , ending index)
+                return type : string
