@@ -1,0 +1,97 @@
+
+// All programs
+
+program1 :
+       Use of Scanner class
+      WAP to get the input from the user by using Scanner class which in util package
+      and import package .
+      1. integer value
+      2. float value
+      3. double value
+      4. String value
+
+program2 :
+           Use of Scanner class
+        WAP to get the input from the user by using Scanner class which in util package
+             and import package .
+            take dream company from user
+            and also package and display that information
+
+Program3 :
+
+        Use of BufferedReader and InputStreamReader classes with each another
+        WAP to get input data from user in different data types
+        student data
+        string
+        int
+        float
+
+Program4 :
+
+        Use of BufferedReader and InputStreamReader class in one line
+        WAP to get input data from user in different data types
+        cricket data
+        string
+        int
+        float
+
+program5  :
+
+        Use of BufferedReader class with InputStreamReader class
+        WAP to take data of society
+        name of society
+        wing name
+        flat no
+
+program6 :
+
+         Use of BufferedReader class with InputStreamReader class
+         check whether the connection is close of object or directly from keyboard
+         single object is created..
+          WAP to take cricket data
+           string
+           int
+           float
+
+program7 :
+
+         Use of BufferedReader class with InputStreamReader class
+         check whether the connection is close of object or directly from keyboard
+         multiple objects are created..
+          WAP to take cricket data
+           string
+           int
+           float
+
+program8  :
+
+             Use of BufferedReader class with InputStreamReader class
+             without using tokenization
+              WAP to take cricket data
+                        string
+                        int
+                        float
+              on a single line;
+
+program9  :
+
+             Use of BufferedReader class with InputStreamReader class
+             with using Tokenization hardcoded
+              WAP to take cricket data
+                        string
+                        int
+                        float
+              on a single line;
+
+program10  :
+
+             Use of BufferedReader class with InputStreamReader class
+             with using Tokenization as per requirement
+              WAP to take cricket data
+                        string
+                        int
+                        float
+              on a single line;
+
+
+
